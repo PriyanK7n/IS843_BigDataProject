@@ -1,6 +1,8 @@
-# IS843_BigDataProject
+## [**IS843_BigDataProject**](https://www.canva.com/design/DAFhCuOYQP8/7eZBLY77U9Weroa-09ce4w/view?utm_content=DAFhCuOYQP8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-# Analyzing NYC Taxi Trips: Understanding Demand and Optimizing Revenue
+
+# [**Analyzing NYC Taxi Trips: Understanding Demand and Optimizing Revenue**](https://www.canva.com/design/DAFhCuOYQP8/7eZBLY77U9Weroa-09ce4w/view?utm_content=DAFhCuOYQP8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 ## IS843 - Team 6
 
